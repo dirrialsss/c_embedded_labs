@@ -1,0 +1,21 @@
+# IDE settings 
+.metadata/ 
+.settings/
+.cproject
+.project
+.mxproject
+.launch
+
+
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.log
+
+
