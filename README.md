@@ -10,5 +10,8 @@
 ## Lab 4 — Analog to Digital Converter
 👉 [Recording](https://drive.google.com/file/d/1wjTUjx80DAwxF0Uj06RcrUyORTDwZ1Rk/view?usp=sharing)
 
+## Lab 5 — Communication interfaces (USART)
+👉 [Recording](https://drive.google.com/file/d/1aJklFVsA41prqEpeKR8GNLadweZ3lShy/view?usp=sharing)
+
 ## 👤 Author
 Siukalo Diana
