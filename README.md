@@ -13,5 +13,9 @@
 ## Lab 5 — Communication interfaces (USART)
 👉 [Recording](https://drive.google.com/file/d/1aJklFVsA41prqEpeKR8GNLadweZ3lShy/view?usp=sharing)
 
+## Lab 6 — Communication interfaces (I2C)
+"Jingle Bells"
+👉 [Recording](https://drive.google.com/file/d/1-hxfL8d5Yg3JUmM1LiQbzLeylwK0zo1z/view?usp=sharing)
+
 ## 👤 Author
 Siukalo Diana
